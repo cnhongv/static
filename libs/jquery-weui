@@ -1,0 +1,22 @@
+{
+    "name": "jquery-weui",
+    "filename": "jquery-weui.js",
+    "version": "0.7.1",
+    "description": "WeUI 的jQuery实现版，提供了大量官方WeUI没有的组件, 同时兼容 jQuery 和 Zepto。",
+    "homepage": "http://lihongxun945.github.io/jquery-weui/",
+    "keywords": [
+       "typo", "css"
+   ],
+   "maintainers": [
+       {
+           "name": "lihongxun",
+           "web": "http://lihongxun945.github.io/jquery-weui/" 
+       }
+   ],
+   "repositories": [
+        {   
+            "type": "git",
+            "url": "https://github.com/lihongxun945/jquery-weui"
+        }
+   ]
+}
